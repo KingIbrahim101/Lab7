@@ -1,0 +1,28 @@
+.quote{
+    background-color: yellow;
+}
+img{float:left;z-index: 1; }
+body{overflow:auto ; position: relative;}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+.stoic{
+    background-color: red;
+}
+blockquote{
+    background-color: rgb(80, 130, 80);
+    font-size: 25;
+}
+.link{
+    float: right;
+}
+.quote2{
+    background-color: rgb(204, 94, 94);
+    margin-left: 150px;
+}
